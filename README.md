@@ -1,9 +1,9 @@
 ![Try, Catch, Throw](https://i.imgur.com/7uZOFbK.png)
 # Introduction
-A VR game made in Unity for a school project in Mr.Cho's `3D visualization and virtualization` from Unionville High School</br>
-Made on an Oculus Rift, for Oculus Quest.
+A VR game made in Unity for a school project.</br>
+Made on Oculus Rift, for Oculus Quest.
 
-The game was suppose to be programming themed, hence the name, but then I changed theme midway to loy-poly + medieval. 
+The game was suppose to be programming themed, hence the name. But then I changed theme midway to loy-poly + medieval. 
 
 Please message me if you took something from this project so I can feel useful and important. 
 
