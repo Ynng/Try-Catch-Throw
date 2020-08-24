@@ -9,6 +9,8 @@ Please message me if you took something from this project so I can feel useful a
 
 ## [Jump To Screenshots](#Screenshots)
 
+## [Download for Quest](https://github.com/Ynng/Try-Catch-Throw/releases/latest)
+
 ## Highlights
 * Force pull "gravity glove style"
   * aim, lock, grab, pull, object flies toward you, release hand, grab again when object reaches you
