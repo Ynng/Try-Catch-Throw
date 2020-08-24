@@ -1,9 +1,11 @@
 ![Try, Catch, Throw](https://i.imgur.com/7uZOFbK.png)
 # Introduction
-A VR game made in Unity for a school project.</br>
-Made on Oculus Rift, for Oculus Quest.
+A VR game made in Unity for a school project, where you are a magician protecting a castle from trebuchets.</br>
+You "force pull" incoming bombs and throwing them back at enemies.</br>
+You can also buy more powerful explosives and magical items yourself to throw into the field.
 
-The game was suppose to be programming themed, hence the name. But then I changed theme midway to loy-poly + medieval. 
+## Other Info
+Made on Oculus Rift, for Oculus Quest.
 
 Please message me if you took something from this project so I can feel useful and important. 
 
@@ -32,3 +34,6 @@ These screenshots are taken inside the Unity editor. I don't currently own an VR
 ![Screenshot Day](https://imgur.com/T2AiA2M.png)
 ![Screenshot Evening](https://i.imgur.com/rvgtZzW.png)
 ![Screenshot Night](https://i.imgur.com/j64kFwk.png)
+
+### More Info
+The game was suppose to be programming themed, hence the name. But then I changed theme midway to loy-poly + medieval. 
