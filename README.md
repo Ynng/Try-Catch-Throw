@@ -5,9 +5,9 @@ You "force pull" incoming bombs and throwing them back at enemies.</br>
 You can also buy more powerful explosives and magical items yourself to throw into the field.
 
 ## Other Info
-Made on Oculus Rift, for Oculus Quest.
+Made with an Oculus Rift, for Oculus Quest.
 
-Please message me if you took something from this project so I can feel useful and important. 
+Please message me if you plan on taking something from this project, so that I can feel useful and important. 
 
 ## [Jump To Screenshots](#Screenshots)
 
