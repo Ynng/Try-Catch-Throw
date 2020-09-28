@@ -30,7 +30,7 @@ Please message me if you plan on taking something from this project, so that I c
 ## [Game Proposal](https://github.com/Ynng/Try-Catch-Throw/blob/master/idea%20and%20proposal.docx)
 
 ## Screenshots
-These screenshots are taken inside the Unity editor. I don't currently own an VR headset.
+These screenshots are taken inside the Unity editor. I don't currently own a VR headset.
 ![Screenshot Day](https://imgur.com/T2AiA2M.png)
 ![Screenshot Evening](https://i.imgur.com/rvgtZzW.png)
 ![Screenshot Night](https://i.imgur.com/j64kFwk.png)
